@@ -1,2 +1,2 @@
 # AI-Exhibit
-Games for exploring research in AI, aimed at AI Literacy 
+Games for exploring research in AI, aimed at promoting AI Literacy 
