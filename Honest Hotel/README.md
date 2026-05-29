@@ -69,14 +69,13 @@ This repository is static and is well-suited to be deployed on Vercel as a stati
 
 Steps to deploy:
 
-Push the repository to GitHub
-Sign in to Vercel and click Import Project → Import Git Repository → select this repo.
-Configure project settings:
-Framework: Other / Static Site
-Build Command: (leave empty)
-Output Directory: / (root)
-Click Deploy. Vercel will serve the static files directly.
-Optional: set a custom domain and add analytics or environment variables from the Vercel dashboard.
+1. Push the repository to GitHub
+2. Sign in to Vercel and click Import Project → Import Git Repository → select this repo.
+3. Configure project settings:
+    - Framework: Other / Static Site
+    - Build Command: (leave empty)
+    - Output Directory: / (root)
+4. Click Deploy. Vercel will serve the static files directly.
 
 ---
 

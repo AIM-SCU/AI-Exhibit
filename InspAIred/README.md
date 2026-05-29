@@ -85,8 +85,6 @@ Steps to deploy:
    - Output Directory: `/` (root)
 4. Click **Deploy**. Vercel will serve the static files directly.
 
-Optional: set a custom domain and add analytics or environment variables from the Vercel dashboard.
-
 ---
 
 ## Future improvements / roadmap
